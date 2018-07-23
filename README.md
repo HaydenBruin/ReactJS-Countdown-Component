@@ -1,3 +1,6 @@
+-- This was a simple react component used for a presentation --
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Simple countdown component for a ReactJS presentation - Uses CRA to fast track build time.
